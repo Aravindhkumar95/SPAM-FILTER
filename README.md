@@ -18,3 +18,4 @@
 
 <img src="https://user-images.githubusercontent.com/57459830/101291667-94921f80-37d8-11eb-8238-3457dfaeb47a.png" alt="Body Length Distribution">
 
+<img src="https://user-images.githubusercontent.com/57459830/101291811-7f69c080-37d9-11eb-8c0b-744308b6fa0c.png" alt="Punctuation Percentage Distribution">
