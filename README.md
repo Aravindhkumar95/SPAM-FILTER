@@ -16,5 +16,5 @@
 
 <p>For better understanding I used histogram to plot the <b>Length of Message</b> and <b>Percentage of Punctuation</b>. This will helps us to understand the distribution of both in overall dataset.</p>
 
-<img src="download.png" alt="Body Length Distribution">
+<img src="" alt="Body Length Distribution">
 
