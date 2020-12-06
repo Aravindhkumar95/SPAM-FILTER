@@ -19,7 +19,7 @@
 <img src="https://user-images.githubusercontent.com/57459830/101291667-94921f80-37d8-11eb-8238-3457dfaeb47a.png" alt="Body Length Distribution"> <img src="https://user-images.githubusercontent.com/57459830/101291811-7f69c080-37d9-11eb-8c0b-744308b6fa0c.png" alt="Punctuation Percentage Distribution"> 
 
 <h3>Analyzing the New Feature</h3>
-<p>I used histogram to plot the distribution of Length of Message and Percentage of Punctuation separately for Spam and Ham. From the below graph we can understand, Spam Messages have more text and more punctuation</p>
+<p>I used histogram to plot the distribution of Length of Message and Percentage of Punctuation separately for Spam and Ham. From the below graph we can understand, Spam Messages have more text and more punctuation.</p>
 
 <img src="https://user-images.githubusercontent.com/57459830/101295532-25bec180-37ec-11eb-9bac-2834586c1ebd.png" alt="Body Length Distribution - Spam Vs Ham "> <img src="https://user-images.githubusercontent.com/57459830/101295558-5f8fc800-37ec-11eb-88bc-ef243aab60cf.png" alt="Punctuation Percentage Distribution - Spam Vs Ham ">
 
