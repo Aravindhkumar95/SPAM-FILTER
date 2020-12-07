@@ -67,10 +67,10 @@
 
 <i>Removing Stopwords:</i> Words like <i>the, but, if, that</i> don't contribute much to the meaning of a sentence. So, the last step of cleaning the data involves removing those stopwords
 
-'''
+```python
   import nltk
   stopwords = nltk.corpus.stopwords.words('english')
-'''
+```
 
 
 
