@@ -33,7 +33,9 @@
 </ol>
 <p>
 <i>Removing Punctuation:</i>In this approach, I am removing punctuation from the messages. In case if you wish, you can vectorize each punctuation to increase the number of variables for supporting the algorithm.
+  
 <i>Tokenization:</i>It is the process of splitting some string or sentence into a list of words. Along the with single or multiple white spaces we also need to consider the special characters that separate the words. 
+
 <i>Stemming:</i>It is the process of reducing inflected words to their word stem or root. It blindly remove the end of the word to leave only the base. 
 <ul>
   <li>Stemming/Stemmed  -->  Stem</li>
