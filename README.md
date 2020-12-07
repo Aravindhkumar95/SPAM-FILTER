@@ -62,7 +62,12 @@
     <td>Goose/Goose</td>
   </tr>
 </table>
-<p>I used Stemming in this filtering process, because it is fast when compared to the Lemmaztizing</p>
+<p>Stemming is fast when compared to Lemmatizing. So I used <a href="https://tartarus.org/martin/PorterStemmer/">Porter Stemming</a> in this cleaning process</p>
+
+```python
+  import nltk
+  ps = nltk.PorterStemmer()
+```
 
 
 <i>Removing Stopwords:</i> Words like <i>the, but, if, that</i> don't contribute much to the meaning of a sentence. So, the last step of cleaning the data involves removing those stopwords
