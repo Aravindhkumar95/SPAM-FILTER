@@ -112,9 +112,11 @@ n_estimators=150,max_depth=11
 
 <h2>Modal Evaluation</h2>
 The metrics we used to evaluate this model are Precision, Recall, Fscore and Accuracy
+
 ```python
 from sklearn.metrics import precision_recall_fscore_support
 ```
+
 We obtained the below table results
 <table>
   <tr>
