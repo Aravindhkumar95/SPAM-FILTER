@@ -147,7 +147,9 @@ We obtained the below table results
   </table>
 
 <h2>Conclusion</h2>
-  
+<p>From the results, we can see that Randomforest has much better <i>precision</i> at 100%, but in case of <i>recall</i> gradientboosting has its upper hands. We must also consider Random forest is faster than Gradient boosting.</p>
+
+<p>Incase if we care more about time or precision, we can select Random forest as best machine learning algorithm for the spam message classification or if we care about recall we can opt for Gradient Boosting Machine learning algorithm. Based on the personal or business requirements we can select the model. We can also use GridsearchCV for hyper parameter tuning to select the best results from various sets of hyper parameters.</p>
 
 
 
