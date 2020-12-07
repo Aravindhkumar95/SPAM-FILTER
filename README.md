@@ -87,9 +87,28 @@
 <h3><a href="https://towardsdatascience.com/understanding-random-forest-58381e0602d2">Random Forest</a></h3>
 <p>Random forest classifier is a machine algorithm consists of a large number of individual decision trees that operate as an ensemble. Each individual tree in the random forest spits out a class prediction and the class with the most votes becomes our model's prediction.</p>
 <img src="https://miro.medium.com/max/750/1*VHDtVaDPNepRglIAv72BFg.jpeg" alt="Visualization of a Random Forest Model Making a Prediction"> 
-                                                                                                                                                 
-<h3><a href="https://towardsdatascience.com/understanding-gradient-boosting-machines-9be756fe76ab">Gradient Boosting</a></h3>
 
+In python it can be imported from sklearn ensemble
+```python
+from sklearn.ensemble import RandomForestClassifier
+```
+
+The Hyperparameter values for Random forest Classifier are
+```python
+n_estimators=150,max_depth=None,n_jobs=-1
+```                                                                                                                                              
+<h3><a href="https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/">Gradient Boosting</a></h3>
+<p>Gradient Boosting is a machine algorithm techniques that creates multiple models and then combines them to produce better results than any of the single models individually. This method takes an iterative approach to combining weak learners to create a strong learner by focusing on mistakes of prior iterations. It trains many models in a gradual, additive and sequential manner.</p>
+
+Gradient boosing can also be imported from sklearn ensemble
+```python
+from sklearn.ensemble import GradientBoostingClassifier
+```
+
+The Hyperparameter values for Gradient Boosting are
+```python
+n_estimators=150,max_depth=11
+```
 
 
 
