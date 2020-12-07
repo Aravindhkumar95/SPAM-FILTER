@@ -86,7 +86,7 @@
 <h2>Model Evaluation</h2>
 <h3><a href="https://towardsdatascience.com/understanding-random-forest-58381e0602d2">Random Forest</a></h3>
 <p>Random forest classifier is a machine algorithm consists of a large number of individual decision trees that operate as an ensemble. Each individual tree in the random forest spits out a class prediction and the class with the most votes becomes our model's prediction.</p>
-<img src="https://miro.medium.com/max/750/1*VHDtVaDPNepRglIAv72BFg.jpeg" alt="Visualization of a Random Forest Model Making a Prediction" class="center"> 
+<img src="https://miro.medium.com/max/750/1*VHDtVaDPNepRglIAv72BFg.jpeg" alt="Visualization of a Random Forest Model Making a Prediction" style="float:centre> 
 <h3><a href="https://towardsdatascience.com/understanding-gradient-boosting-machines-9be756fe76ab">Gradient Boosting</a></h3>
 
 
