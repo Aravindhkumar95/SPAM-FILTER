@@ -44,6 +44,41 @@
   <li>Connection/Connected/Connective  -->  Connect</li>
 </ul>
 <i>Lemmatizing:</i>It is the process of vocabulary analysis of words inorder to remove inflectional root words to leave only the dictionary form of a word.  
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+
+<table>
+  <tr>
+    <th>Words</th>
+    <th>Stemming</th>
+    <th>Lemmatizing</th>
+  </tr>
+  <tr>
+    <td>Meanness/Meaning</td>
+    <td>Mean</td>
+    <td>Meanness/Meaning</td>
+  </tr>
+  <tr>
+    <td>Goose/Geese</td>
+    <td>Goos/Gees</td>
+    <td>Goose/Goose</td>
+  </tr>
+</table>
 
 
 
