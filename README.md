@@ -110,6 +110,46 @@ The Hyperparameter values for Gradient Boosting are
 n_estimators=150,max_depth=11
 ```
 
+<h2>Modal Evaluation</h2>
+The metrics we used to evaluate this model are Precision, Recall, Fscore and Accuracy
+```python
+from sklearn.metrics import precision_recall_fscore_support
+```
+We obtained the below table results
+<table>
+  <tr>
+    <th>Metrics</th>
+    <th>Random Forest</th>
+    <th>Gradient Boosting</th>
+  </tr>
+  <tr>
+    <td>Precision</td>
+    <td>1.0</td>
+    <td>0.916</td>
+  </tr>
+  <tr>
+    <td>Recall</td>
+    <td>0.757</td>
+    <td>0.8111</td>
+  </tr>
+  <tr>
+    <td>fscore</td>
+    <td>0.862</td>
+    <td>0.86</td>
+  </tr>
+  <tr>
+    <td>Accuracy</td>
+    <td>0.968</td>
+    <td>0.965</td>
+  </tr>
+  </table>
+
+<h2>Conclusion</h2>
+  
+
+
+
+
 
 
 
