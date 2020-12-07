@@ -24,7 +24,13 @@
 <img src="https://user-images.githubusercontent.com/57459830/101295532-25bec180-37ec-11eb-9bac-2834586c1ebd.png" alt="Body Length Distribution - Spam Vs Ham "> <img src="https://user-images.githubusercontent.com/57459830/101295558-5f8fc800-37ec-11eb-88bc-ef243aab60cf.png" alt="Punctuation Percentage Distribution - Spam Vs Ham ">
 
 <h2>Cleaning Text</h2>
-<p
+<p>In order to predict the messages as spam or ham, It is necessary to convert the messages to Machine understanding form. The process involved in cleaning procoess are:</p>
+<ol>
+  <li>Removing Punctuation</li>
+  <li>Tokenization</li>
+  <li>Lemmatizing or Stemming</li>
+  <li>Removing Stopwords</li>
+</ol>
 
 
 
