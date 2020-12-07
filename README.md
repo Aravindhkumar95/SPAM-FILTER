@@ -77,5 +77,13 @@
   stopwords = nltk.corpus.stopwords.words('english')
 ```
 
+<h2>Train Test Split</h2>
+<p>In this splitting process, initially variables suchs as <i>'body_text, 'body_len', 'punct_%,</i> are considered as input variables and variable <i>'label</i> consist of spam or ham as output variables.</p>
+
+<h2>Vectorization</h2>
+<p>It is the process of encoding text as integers to create a n-dimensional vector of numerical features that represent some object. This is the important to create various features in numerical format which can be understand by python for analyzing the artical. You can more information about Vectorization in this <a href="https://medium.com/@paritosh_30025/natural-language-processing-text-data-vectorization-af2520529cf7">article</a></p>
+
+
+
 
 
