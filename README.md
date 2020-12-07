@@ -43,7 +43,8 @@
   <li>Berries/Berry  -->  Berri</li>
   <li>Connection/Connected/Connective  -->  Connect</li>
 </ul>
-<i>Lemmatizing:</i>It is the process of vocabulary analysis of words inorder to remove inflectional root words to leave only the dictionary form of a word.  
+<i>Lemmatizing:</i>It is the process of vocabulary analysis of words inorder to remove inflectional root words to leave only the dictionary form of a word.</p>
+
 <style>
 table {
   font-family: arial, sans-serif;
