@@ -31,7 +31,10 @@
   <li>Lemmatizing or Stemming</li>
   <li>Removing Stopwords</li>
 </ol>
-
+<p>
+ <i>Removing Punctuation:</i>In this approach, I am removing punctuation from the messages. In case if you wish, you can vectorize each punctuation to increase the number of variables for supporting the algorithm.
+  <i>Tokenization:</i>
+    
 
 
 
